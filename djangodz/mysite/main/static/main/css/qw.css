@@ -1,0 +1,23 @@
+h1{
+    color:rgb(4, 0, 255);
+}
+#p1 {
+    font-size: 25px;
+    color:rgb(207, 220, 20) 
+}
+body{
+        background-color: rgb(159, 25, 25);
+        background-size: cover;
+}
+#p2{
+    font-size: 25px;
+    color:chartreuse
+}
+#p3{
+    font-size: 25px;
+    color:chartreuse
+}
+#p4{
+    font-size: 25px;
+    color:chartreuse
+}
