@@ -1,7 +1,7 @@
 # Проект наше повсякденне життя
 ### Розробники
 - Теліус Ярослав "Тім лід" https://github.com/TeliusYaroslav
-- Илля Булкін https://github.com/Ilia228777
+- Ілля Булкін https://github.com/Ilia228777
 - Іван Кратенко https://github.com/ruopodfg
 - Панасенко Діана https://github.com/PanasenkoDiana
   
